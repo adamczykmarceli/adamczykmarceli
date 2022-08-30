@@ -8,7 +8,7 @@ I am a Data Analyst 📊 from Kraków, Poland. I am currently working at Allegro
 - Cooperating with engineers in order to create trackable events ⚒️
 - Composing SQL queries (PostgreSQL, Oracle, BigQuery) 🔍
 - Process automatization (Composer, Airflow, Jupyter Notebooks) 🚗
-- Data visualisation (Tableu, Google Data Studio) 🖥️
+- Data visualisation (Tableau, Google Data Studio) 🖥️
 
 I am currently focusing more on exploring using Python as the tool for analysis and machine learning models.
 
