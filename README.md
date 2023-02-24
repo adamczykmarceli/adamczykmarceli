@@ -1,6 +1,6 @@
 # Hi 👋, I’m Marceli. #
 
-I am a Data Analyst 📊 from Kraków, Poland. I am currently working at Allegro, supporting the logistic analytics of Allegro One 🟠. My work mainly compromises of:
+I am a Data Analyst 📊 from Kraków, Poland. I am currently working at Allegro, supporting the analytical growth of Fairmarkit. My work mainly compromises of:
 - Supporting the business with the product and users' knowledge 📚
 - Identifying key areas for growth 🌱
 - Constructing hypotheses and testing them 💭
