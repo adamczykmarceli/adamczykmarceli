@@ -1,16 +1,16 @@
 # Hi 👋, I’m Marceli. #
 
-I am a Data Analyst 📊 from Kraków, Poland. I am currently working at Allegro, supporting the analytical growth of Fairmarkit. My work mainly compromises of:
+I am a Data Analyst 📊 from Kraków, Poland. I am currently supporting the analytical growth of Fairmarkit as an Analytics Engineer. My work mainly consists of:
 - Supporting the business with the product and users' knowledge 📚
 - Identifying key areas for growth 🌱
 - Constructing hypotheses and testing them 💭
 - Defining metrics and quantitive measures ⏱️
-- Cooperating with engineers in order to create trackable events ⚒️
+- Cooperating with engineers to create trackable events ⚒️
 - Composing SQL queries (PostgreSQL, Oracle, BigQuery) 🔍
 - Process automatization (Composer, Airflow, Jupyter Notebooks) 🚗
 - Data visualisation (Tableau, Google Data Studio) 🖥️
 
-I am currently focusing more on exploring using Python as the tool for analysis and machine learning models.
+I am currently focusing more on exploring using Python for analysis and machine learning models.
 
 Contact me:
 - marcele.adamczyk@gmail.com
